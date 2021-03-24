@@ -7,7 +7,6 @@ from sys import exit
 
 #info: sys.argv[0] is reserved for the internal filename!
 
-#path = "C:\\Users\\risshend\\Documents\\PyCharm"
 #path = os.path.dirname(__file__)               #get path of current dir of that file
 path = os.getcwd()                              #get path of current working dir
 result_msg = "changed"
