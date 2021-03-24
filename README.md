@@ -9,6 +9,7 @@ Please provide these arguments:
   
 -f <search_string> = Find string in files in current working directory.
 
-Optional:\n-p <PATH> = Define Path for your action. If not spcified, the current working directory will be used.
+Optional:
+-p <PATH> = Define Path for your action. If not spcified, the current working directory will be used.
 
 Example:find_replace.py -r alt neu -p C:\choose\dir
