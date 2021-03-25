@@ -1,5 +1,5 @@
 # Python find and/or replace script
-A python script, that searches und replaces whole(!) strings with regex. You can specify a path of operation or a single file. If nothing is choosen, the current working firectory is used.<br>
+A python script, that searches und replaces whole(!) strings with regex. You can specify a path of operation or a single file. If nothing is choosen, the current working directory is used.<br>
 
 Please provide these arguments:<br>
 -r <search_string> <replace_string> = replace string in every file in current working directory.<br>
