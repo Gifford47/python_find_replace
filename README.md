@@ -9,4 +9,12 @@ Please provide these arguments:<br>
 Optional:<br>
 -p <PATH> = Define Path or file for your action. If not spcified, the current working directory will be used.<br><br>
 
-Example:find_replace.py -r old_string new_string -p "C:\choose\dir"
+Example:<br>
+find_replace.py -r old_string new_string -p "C:\choose\dir"<br><br>
+
+Output:<br>
+Working directory:C:\Users\risshend\Documents\PyCharm\find_replace<br>
+searching...<br>
+File 'C:\Users\test\Documents\find_replace\new.txt' changed 2 times!<br>
+File 'C:\Users\test\Documents\find_replace\second.txt' changed 1 times!<br>
+Total files changed: 2<br>
