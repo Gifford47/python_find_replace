@@ -16,7 +16,7 @@ def notice():
           '-r <search_string> <replace_string> = replace string in every file in current working directory.\n' \
           '-d <"{\'alt'':\'neu\',\'alt2\':\'neu2\'}"> = replace strings from <DICT> in every file in current working directory.\n' \
           '-f <search_string> = Find string in files in current working directory.\n' \
-          'Optional:\n-p <PATH> = Define Path for your action. If not spcified, the current working directory will be used.\n' \
+          'Optional:\n-p <PATH/FILE> = Define Path or File for your action. If not spcified, the current working directory will be used. \n' \
           'Example:\nfind_replace.py -r alt neu -p C:\choose\dir\n'
     #os.system('pause')              # only for win, to read the console after finish
     exit(0)
