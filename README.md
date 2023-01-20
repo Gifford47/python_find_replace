@@ -13,7 +13,7 @@ Example:<br>
 find_replace.py -r old_string new_string -p "C:\choose\dir"<br><br>
 
 Output:<br>
-Working directory:C:\Users\risshend\Documents\PyCharm\find_replace<br>
+Working directory:C:\Users\bratzh\Documents\PyCharm\find_replace<br>
 searching...<br>
 File 'C:\Users\test\Documents\find_replace\new.txt' changed 2 times!<br>
 File 'C:\Users\test\Documents\find_replace\second.txt' changed 1 times!<br>
